@@ -1,0 +1,7 @@
+HULK 
+wget  https://dl.packetstormsecurity.net/DoS/hulk.zip
+
+
+THC-SSL-DoS
+
+https://www.kali.org/tools/thc-ssl-dos/#thc-ssl-dos

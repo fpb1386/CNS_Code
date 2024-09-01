@@ -1,0 +1,8 @@
+Sandboxie
+https://sandboxie-plus.com/downloads/
+
+BSA
+https://bsa.isoftware.nl/
+
+WinPcap
+https://www.winpcap.org/install/

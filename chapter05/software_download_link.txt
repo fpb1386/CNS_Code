@@ -1,0 +1,5 @@
+For Windows 11
+https://techdocs.broadcom.com/us/en/symantec-security-software/information-security/symantec-encryption-desktop/10-4-2/symantec-encryption-desktop-release-notes.html
+
+For Windows 10
+https://techdocs.broadcom.com/us/en/symantec-security-software/information-security/symantec-encryption-desktop/10-5/symantec-encryption-desktop-release-notes.html
